@@ -10,4 +10,4 @@ From this project, I learned:
   - Algolia
   - How annoying it is to publish to the App Store
 
-![Run: Side-Scroller Game](screenshot.PNG)
+![Bookmart: buy/sell books and textbooks](images/demo1.png)
