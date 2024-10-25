@@ -1,3 +1,4 @@
+![Logo](images/logo.png)
 # Bookmart: platform to buy/sell books and textbooks
 
 This is the first app I published to the App Store and Google Play Store.
