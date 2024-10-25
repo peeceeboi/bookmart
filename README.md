@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" alt="Logo" width="200"/>
+  <img src="images/icon.png" alt="Logo" width="50"/>
 </p>
 # Bookmart: platform to buy/sell books and textbooks
 
