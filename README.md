@@ -1,4 +1,6 @@
-![Logo](images/icon.png)
+<p align="center">
+  <img src="images/icon.png" alt="Logo" width="200"/>
+</p>
 # Bookmart: platform to buy/sell books and textbooks
 
 This is the first app I published to the App Store and Google Play Store.
