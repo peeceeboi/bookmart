@@ -9,6 +9,5 @@ From this project, I learned:
   - Node.js
   - Algolia
   - How annoying it is to publish to the App Store
-
-![Bookmart: buy/sell books and textbooks](images/demo1.png)
-<img src="images/demo1.png" alt="Bookmart" width="100">
+    
+<img src="images/demo1.png" alt="Bookmart" width="400">
