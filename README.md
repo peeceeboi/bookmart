@@ -10,4 +10,5 @@ From this project, I learned:
   - Algolia
   - How annoying it is to publish to the App Store
     
-<img src="images/demo1.png" alt="Bookmart" width="400">
+<img src="images/demo1.png" alt="Bookmart: Demo 1" width="400">
+<img src="images/demo2.png" alt="Bookmart: Demo 2" width="400">
