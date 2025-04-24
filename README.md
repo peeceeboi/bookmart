@@ -13,6 +13,7 @@ From this project, I learned:
   - Node.js
   - Algolia
   - How annoying it is to publish to the App Store
+  - I'm aware there might be security issues and really bad code, but hey that's how you learn
 
 <p>
   <img src="images/demo1.png" alt="Bookmart: Demo 1" width="400">
